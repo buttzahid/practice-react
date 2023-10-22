@@ -1,0 +1,15 @@
+.App {
+  text-align: left;
+}
+#root{
+  width: 900px;
+  margin: 0 auto;
+}
+
+li{
+  text-align: left;
+}
+button{
+  padding: 5px;
+  margin: 5px;
+}
